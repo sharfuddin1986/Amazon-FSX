@@ -10,8 +10,11 @@ infrastructure.
 # Tasks To Be Performed:
 
 1. Create an FSx file system for a Windows file server:
+
 a. Make sure you have AWS Managed Active Directory with a valid
-domain name
+   domain name
+
 b. Connect it to your Windows EC2 server
+
 2. Create an FSx file system for Lustre and attach it to an Amazon Linux 2
-instance.
+   instance.
